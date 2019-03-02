@@ -1,0 +1,1 @@
+This is Sally's first git project!
